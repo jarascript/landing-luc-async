@@ -1,0 +1,20 @@
+{
+  "name": "landing-luc-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarascript/landing-luc-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarascript/landing-luc-async/issues"
+  },
+  "homepage": "https://github.com/jarascript/landing-luc-async#readme"
+}
