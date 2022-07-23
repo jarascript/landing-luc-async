@@ -1,3 +1,3 @@
 # landing-luc-async
 
-Landing LUC con API Youtube
+Landing LUC conectada a API Youtube
